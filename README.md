@@ -1,4 +1,4 @@
-# pr1
+# pr1 Скрины
 Развернул myapp на домашнем пк, все работает.
 Подключил на телефоне ,тоже работает
 ![photo_5407003310860395219_y](https://github.com/user-attachments/assets/a9c68b68-a6f9-4cf1-acdd-80eb8e5375c8)
